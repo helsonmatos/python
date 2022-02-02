@@ -2,6 +2,7 @@ import scrapy
 
 
 class ImdbSpider(scrapy.Spider):
+    
     name = 'imdb'
     start_urls = ['https://www.imdb.com/chart/top/?ref_=nv_mv_250']
 
