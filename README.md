@@ -1,2 +1,4 @@
-# estudospython
-Relembrando e estudando Python.
+# Estudos com a linguagem Python
+
+- Relembrando e estudando Python.
+
